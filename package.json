@@ -1,0 +1,24 @@
+{
+  "name": "crud-app-1",
+  "version": "1.0.0",
+  "description": "School related Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test-crud-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobyNT-Dev/Crud-App.git"
+  },
+  "keywords": [
+    "crud",
+    "app"
+  ],
+  "author": "Tobias Thy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobyNT-Dev/Crud-App/issues"
+  },
+  "homepage": "https://github.com/TobyNT-Dev/Crud-App#readme"
+}
